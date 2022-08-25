@@ -1,5 +1,5 @@
 # Projects
-
+# Test
 These are specific bite-sized projects to learn an aspect of deep learning, starting from scratch.  There is an associated video around 10 minutes long.  I assume no background in ML but some proficiency in python.  The projects are in order from beginner to more advanced, but feel free to skip around.
 
 | Project | Starter Code | Video |
